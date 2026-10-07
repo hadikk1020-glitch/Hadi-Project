@@ -1,0 +1,6 @@
+{
+  "name": "HADI HADI - Student Percentage & Performance Management",
+  "description": "Modern, colorful and professional Student Percentage Management and Academic Performance Portal for schools and colleges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
